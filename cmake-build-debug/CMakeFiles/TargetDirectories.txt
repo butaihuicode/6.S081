@@ -1,0 +1,3 @@
+/Users/challway/Documents/MIT6.S081/xv6-labs-2021/cmake-build-debug/CMakeFiles/xv6_labs_2021.dir
+/Users/challway/Documents/MIT6.S081/xv6-labs-2021/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/challway/Documents/MIT6.S081/xv6-labs-2021/cmake-build-debug/CMakeFiles/rebuild_cache.dir
